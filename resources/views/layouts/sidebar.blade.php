@@ -183,37 +183,37 @@
 							<div class="collapse" id="configure-nav">
 								<ul class="nav nav-collapse">
 									<li>
-										<a href="company.php">
+										<a href="{{route('company.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Company</span>
 										</a>
 									</li>
 									<li>
-										<a href="branch.php">
+										<a href="{{route('branch.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Branch</span>
 										</a>
 									</li>
 									<li>
-										<a href="project-category.php">
+										<a href="{{route('project_category.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Project Category</span>
 										</a>
 									</li>
 									<li>
-										<a href="project.php">
+										<a href="{{route('project.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Project</span>
 										</a>
 									</li>
 									<li>
-										<a href="funding-organization.php">
+										<a href="{{route('funding_organization.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Funding Organization</span>
 										</a>
 									</li>
 									<li>
-										<a href="currency-type.php">
+										<a href="{{route('currency_type.index')}}">
 										    <i class="fas fa-pen-nib"></i>
 											<span class="sub-item">Currency type</span>
 										</a>
