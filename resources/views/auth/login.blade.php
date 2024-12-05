@@ -168,12 +168,12 @@ License: For each use you must have a valid license purchased only from above li
 
                                 <!--begin::Input group--->
                                 <div class="fv-row mb-8">
-                                    <!--begin::Email-->
-                                    <label for="email" class="form-label fw-bold">Email</label>
-                                    <input type="text" id="email" placeholder="Email" name="email" required autofocus autocomplete="off"
-                                        data-kt-translate="sign-in-input-email"
+                                    <!--begin::userId-->
+                                    <label for="userId" class="form-label fw-bold">userId</label>
+                                    <input type="text" id="userId" placeholder="userId" name="userId" required autofocus autocomplete="off"
+                                        data-kt-translate="sign-in-input-userId"
                                         class="form-control form-control-solid border-secondary" />
-                                    <!--end::Email-->
+                                    <!--end::userId-->
                                 </div>
 
                                 <!--end::Input group--->
@@ -230,7 +230,7 @@ License: For each use you must have a valid license purchased only from above li
 
                     <!--begin::Footer-->
                     <div class="m-0">
-                        
+
                     </div>
                     <!--end::Footer-->
                 </div>
